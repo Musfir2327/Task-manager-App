@@ -13,7 +13,28 @@ A simple Android application for managing personal tasks and notes. Users can cr
 
 ## Screenshots
 
-(https://github.com/Musfir2327/Task-manager-App/blob/d686333e65c4462d81e25a85a106cb1b3a777cb6/screenshot/front.jpeg)
+![Form]([screenshots/main_screen.png](https://github.com/Musfir2327/Task-manager-App/blob/d686333e65c4462d81e25a85a106cb1b3a777cb6/screenshot/front.jpeg))
+
+![Form requied](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/form%20requied.jpeg)
+
+![Form page](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/form%20details.jpeg)
+
+![data details](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/data%20details.jpeg)
+
+![form landscape](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/form%20landscape.jpeg)
+
+![Form field](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/form.jpeg)
+
+![front page](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/front.jpeg)
+
+![landscape details](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/landscape%20details.jpeg)
+
+![landscape](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/landscape.jpeg)
+
+![app icon](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/todo%20app%20icon.jpeg)
+
+![data details](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/todo%20data%20details.jpeg)
+
 
 ## Design Choices Explained
 
