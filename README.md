@@ -12,10 +12,8 @@ A simple Android application for managing personal tasks and notes. Users can cr
 - Handles screen rotation properly
 
 ## Screenshots
-*(Take screenshots from your emulator/phone and add them here)*
 
-1. Main Screen with Task List
-2. Add Task Screen
+(https://github.com/Musfir2327/Task-manager-App/blob/d686333e65c4462d81e25a85a106cb1b3a777cb6/screenshot/front.jpeg)
 
 ## Design Choices Explained
 
