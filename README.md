@@ -13,7 +13,7 @@ A simple Android application for managing personal tasks and notes. Users can cr
 
 ## Screenshots
 
-![Form]([screenshots/main_screen.png](https://github.com/Musfir2327/Task-manager-App/blob/d686333e65c4462d81e25a85a106cb1b3a777cb6/screenshot/front.jpeg))
+![Form](https://github.com/Musfir2327/Task-manager-App/blob/81991a73b34bc4838b4af77d44981ace23cf9798/screenshot/form.jpeg)
 
 ![Form requied](https://github.com/Musfir2327/Task-manager-App/blob/e7e85f944ebaf4ba20c27922123cac8642c071ad/screenshot/form%20requied.jpeg)
 
